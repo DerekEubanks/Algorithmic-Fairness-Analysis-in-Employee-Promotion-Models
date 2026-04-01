@@ -1,7 +1,4 @@
-# CS-6603-Final-Project-Python-
-⚖️ Algorithmic Fairness in Employee Promotion Prediction
-
-Georgia Tech OMSCS – CS 6603: AI, Ethics, and Society
+⚖️ Algorithmic-Fairness-Analysis-in-Employee-Promotion-Models
 
 📌 Overview
 
